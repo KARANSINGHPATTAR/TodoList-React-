@@ -1,0 +1,11 @@
+.list{
+    border:1px solid black;
+    width:195px;
+}
+.cross{
+    float:right;
+    margin:0px;
+    background-color:red;
+    color:white;
+    border:none;
+}
